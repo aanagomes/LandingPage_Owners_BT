@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding="UTF-8"?>
+    <conteudo>
+        <!-- Sobre Nós -->      
+            <titulosobrenos>
+                Sobre nós
+            </titulosobrenos>
+            <textosobrenos>
+                Somos a equipe Owners. Estamos no mercado há quase 1 ano e nosso lema é atuar sempre com exelência e profissionalismo. Para isso contamos com uma equipe de 4 profissionais. Temos o objetivo melhorar a vida de pessoas em situação de vulnerabilidade, através de projetos que facilitam a entrada desses grupos no mercado de trabalho.
+            </textosobrenos>
+
+            <tobjetivo1>
+                Objetivo Geral
+            </tobjetivo1>
+            <corpoobjetivo1>
+                Facilitar o gerenciamento de dados na assistência a pessoas em situação de vulnerabilidade.
+            </corpoobjetivo1>
+
+            <tobjetivo2>
+                Projeto Web
+            </tobjetivo2>
+            <corpoobjetivo2>
+                Informar sobre programas/cursos gratuitos e com bolsas para auxilio da empregabilidade além do banco de curriculos.
+            </corpoobjetivo2>
+
+            <tobjetivo3>
+                Projeto Mobile
+            </tobjetivo3>
+            <corpoobjetivo3>
+                O aplicativo foi desenvolvido para o auxílio na notificação de empregos a fim de facilitar o encontro do trabalho desejado.
+            </corpoobjetivo3>
+        <!-- Sobre Nós --> 
+
+        <!-- Desemprego -->
+            <titulodesemp>
+                Desemprego
+            </titulodesemp>
+            <textodesemp>
+                Nos dias atuais o desemprego é muito comum, no Brasil. A crise econômica é um dos principais motivos. Nosso projeto além de te ajudar a achar um trabalho disponível na sua cidade também vai fazer seu próprio currículo online. Ao se cadastrar, é possível preencher um currículo que poderá ser posteriormente enviado às vagas desejadas. É possível ainda optar por receber notificações via e-mail, ou aplicativo, avisando sobre determinadas vagas.
+            </textodesemp>
+
+            <tdesemp1>
+                Empregabilidade em  Registro (Vale do Ribeira)
+            </tdesemp1>
+
+            <corpodesemp1>
+                A proporção de pessoas ocupadas em relação à população total é de 25.1%
+            </corpodesemp1>
+
+            <tdesemp2>
+                Taxa de escolarização em Registro
+            </tdesemp2>
+
+            <corpodesemp2>
+                A taxa de escolarização da cidade em relação à poulação total é de 97,3%
+            </corpodesemp2>
+
+            <tdesemp3>
+                Contratações no Vale do Ribeira
+            </tdesemp3>
+
+            <corpodesemp3>
+                Em 2020, a Região do Vale do Ribeira registrou 41.636 empregos formais.
+            </corpodesemp3>
+        <!-- Desemprego -->
+
+        <!-- Nossos Projetos -->
+            <tituloprojeto>
+                Nossos projetos
+            </tituloprojeto>
+
+            <tituloweb>
+                Projeto Web
+            </tituloweb>
+
+            <projetoweb>
+                Junto com a prefeitura (CRAS) de Registro que nos propôs desenvolver um banco de currículo afim de automatizar o cadastramento de pessoas em vulnerabilidade para conseguir empregos na região e melhores condições para essas pessoas, com isso nossa equipe se aprofundou mais e quis também trazer mais informações desses grupos em nosso site para que haja mais apoio da sociedade para ajudá-los.
+            </projetoweb>
+
+
+            <tituloapp>
+                Projeto Mobile
+            </tituloapp>
+
+            <projetoapp>
+                O aplicativo AGEH foi desenvolvido para o auxílio de busca de empregos a fim de facilitar o encontro do trabalho desejado, e pode ser baixado e utilizado a todas as pessoas que se encontram em estado de vulnerabilidade.
+            </projetoapp>
+
+            <projetoapp2>
+                Para o acesso do aplicativo, a pessoa irá ao CRAS e ao preencher a fixa de desemprego através do site ela receberá um Login e a senha poderá ser feita pela pessoa quando acessá-lo. Caso a pessoa esteja em um estado de vulnerabilidade mas não vai até o CRAS é possível fazer o seu cadastro no aplicativo também.
+            </projetoapp2>
+        <!-- Nossos Projetos -->
+
+        <!-- Nossos Clientes -->
+            <titulocliente>
+                Nossos Clientes
+            </titulocliente>
+        <!-- Nossos Clientes -->
+
+        <!-- Equipe -->
+            <tituloequipe>
+                Equipe
+            </tituloequipe>
+
+            <tituloana>
+                Ana Clara Gomes
+            </tituloana>
+
+            <titulogabs>
+                Gabriella Teles
+            </titulogabs>
+
+            <tituloeduardo>
+                Eduardo Faria
+            </tituloeduardo>
+
+            <titulohagata>
+                Hagata Tobara
+            </titulohagata>
+
+            <desenvolvedora>
+                Desenvolvedora Web
+            </desenvolvedora>
+
+            <desenvolvedor>
+                Desenvolvedor Web
+            </desenvolvedor>
+        <!-- Equipe -->
+
+        <!-- Nossos Projetos -->
+        <!-- Nossos Projetos -->
+
+
+
+    </conteudo>
